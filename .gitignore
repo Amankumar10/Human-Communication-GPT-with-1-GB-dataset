@@ -30,7 +30,7 @@ var/
 *.egg-info/
 .installed.cfg
 *.egg
-
+datasets.ipynb
 # ============================
 # Logs / Debug / Output
 # ============================
